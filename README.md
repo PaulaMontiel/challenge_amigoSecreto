@@ -1,8 +1,8 @@
-# 🧑‍🤝‍🧑 Gestor de Amigos – Proyecto en JavaScript
+🎁 # Proyecto Amigo Secreto
 
-Una aplicación web interactiva construida con **HTML**, **CSS** y **JavaScript** puro. Permite a los usuarios agregar, editar, eliminar y visualizar una lista de amigos, además de realizar un **sorteo aleatorio** para seleccionar uno de ellos.  
-
-Ideal para eventos como **"amigo secreto"**, **juegos de grupo**, o simplemente para practicar manipulación del DOM en JavaScript.  
+Aplicación web interactiva, construida con **HTML5**, **CSS** y **JavaScript** 
+Permite agregar, editar, eliminar y visualizar la lista de amigos, además de realizar un **sorteo aleatorio** para seleccionar uno de ellos.    
+ 
 
 ---  
   
